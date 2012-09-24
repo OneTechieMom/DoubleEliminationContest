@@ -1,0 +1,6 @@
+project Program5 is
+
+   for Main use ("contest.adb");
+
+end Program5;
+
